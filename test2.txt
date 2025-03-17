@@ -1,2 +1,3 @@
-this is a second test 
+this is a second test
 this is a new line in second test
+this is 3rd line
